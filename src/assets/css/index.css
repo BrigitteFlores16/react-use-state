@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.languages-title {
+  background-color: #f5f4f4;
+  padding: 20px;
+}
+
+.languages-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.languages-list {
+  padding: 15px 10px;
+  margin: 5px;
+  border-radius: 5px;
+  display: inline-block;
+}
